@@ -1,0 +1,10 @@
+C:\Users\jpywa\source\repos\U3\bin\Debug\U3.exe.config
+C:\Users\jpywa\source\repos\U3\bin\Debug\U3.exe
+C:\Users\jpywa\source\repos\U3\bin\Debug\U3.pdb
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.csproj.AssemblyReference.cache
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.Form1.resources
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.Properties.Resources.resources
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.csproj.GenerateResource.cache
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.csproj.CoreCompileInputs.cache
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.exe
+C:\Users\jpywa\source\repos\U3\obj\Debug\U3.pdb
